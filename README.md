@@ -7,3 +7,5 @@ In my country Argentina, they used a lot of Russian and Chinese vaccines due to 
 
 Key things to note: There is not as much difference between Male and Females vaccination, the group that got more vaccines are those of 65 or older age and the main two locations with more vaccines provided are CABA and Buenos Aires province (because of the amount of people living in it)
 The project is in Spanish but a version in English is going to be available too.
+
+*Columns were deleted due to the size of the .pbix file. The dataset will be ulpoaded separately to see the entire columns*

@@ -1,4 +1,4 @@
-# Vaccination-in-Argentina
+# Codid-19 Vaccination-in-Argentina
 In this project, I used data from the Ministry of Helth from Argentina http://datos.salud.gob.ar/dataset
 Using Power BI, I developed key visualizations to understand the vaccination camping in 2021 and valuable Inisghts from it.
 First, divide by location, gender, age range, types of vaccines and number of applications.
